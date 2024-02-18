@@ -1,6 +1,6 @@
 # Project_Starbuscks_Capstone
 
-Blog link [here]([https://duckduckgo.com](https://medium.com/@tatiana.gnz7/capstone-project-7fc875cec915))
+Blog link [here](https://medium.com/@tatiana.gnz7/capstone-project-7fc875cec915)
 
 ## About the Project 
 
